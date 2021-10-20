@@ -2,4 +2,4 @@
 
 ### Feel free to use a modified version
 
-[website] https://eddiemataewy.github.io/
+[website]: https://eddiemataewy.github.io/
